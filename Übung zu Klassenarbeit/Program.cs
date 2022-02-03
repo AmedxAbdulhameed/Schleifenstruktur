@@ -26,6 +26,8 @@ namespace Übung_zu_Klassenarbeit
             Console.WriteLine("--------------------------------------------");
 
             Console.WriteLine("{0,13}{1,2}{2,22}", K,n,p);
+
+
             
 
 
