@@ -23,9 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aufgabe 9", "Augabe 9\Aufga
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aufgabe 10", "Aufgabe 10\Aufgabe 10.csproj", "{7FD425C3-2642-40A4-820D-40AF629AAF93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 10_neu", "Aufgabe 10_neu\Aufgabe 10_neu.csproj", "{A329B9E5-DC8A-482F-9556-917ED576C58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aufgabe 10_neu", "Aufgabe 10_neu\Aufgabe 10_neu.csproj", "{A329B9E5-DC8A-482F-9556-917ED576C58E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Übung zu Klassenarbeit", "Übung zu Klassenarbeit\Übung zu Klassenarbeit.csproj", "{60242EDC-C5C2-4388-A289-016312EE53F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Übung zu Klassenarbeit", "Übung zu Klassenarbeit\Übung zu Klassenarbeit.csproj", "{60242EDC-C5C2-4388-A289-016312EE53F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
