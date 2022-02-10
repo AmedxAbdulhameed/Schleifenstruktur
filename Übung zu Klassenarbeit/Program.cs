@@ -28,7 +28,7 @@ namespace Übung_zu_Klassenarbeit
 
 
             Console.WriteLine("{0,3}    {1,10}    {2,8}    {3,10}    {4,8}", J,G,Z,KZ,B);
-            Console.WriteLine("-------------------------------------------------------");
+            Console.WriteLine("---------------------------------------------------------");
 
 
 
@@ -37,14 +37,17 @@ namespace Übung_zu_Klassenarbeit
                 z = kn * (p/100);
                 kz = kz + z;
                 b = kn + z;
-                Console.WriteLine($"{i,3} | {kn,10:F2}€ | {z,8:F2}€ | {kz,10:F2}€ | {b,8:F2}€");
+                
 
                 kn = kn + z;
-            }
-            Console.WriteLine("-------------------------------------------------------");
+                if (i==n) 
+                {
+                    Console.WriteLine("---------------------------------------------------------");
+                }
 
-          
-
+                Console.WriteLine($"{i,3} | {kn,10:F2}€ | {z,8:F2}€ | {kz,10:F2}€ | {b,8:F2}€");
+                kn = kn + z;
+            }   
         }
     }
 }
