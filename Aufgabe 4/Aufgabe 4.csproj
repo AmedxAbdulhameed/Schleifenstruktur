@@ -6,4 +6,8 @@
     <RootNamespace>Aufgabe_4</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Übung zu Klassenarbeit\Übung zu Klassenarbeit.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -45,7 +45,7 @@ namespace Übung_zu_Klassenarbeit
                     Console.WriteLine("---------------------------------------------------------");
                 }
 
-                Console.WriteLine($"{i,3} | {kn,10:F2}€ | {z,8:F2}€ | {kz,10:F2}€ | {b,8:F2}€");
+                Console.WriteLine($"{i,3} | {kn,10:F2}$ | {z,8:F2}$ | {kz,10:F2}$ | {b,8:F2}$");
                 kn = kn + z;
 
             }   
