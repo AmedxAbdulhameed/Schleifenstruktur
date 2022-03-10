@@ -23,14 +23,12 @@ namespace Datenfeld_Array
             for(int p = 0 ; p < n.Length; p++ )
             {
                 summe = summe + n[p];
-                Console.WriteLine(n[p]      );
-
-
-
+                Console.WriteLine(n[p]);
+                Console.WriteLine("--");
 
             }
             summe = summe / k;
-            Console.WriteLine($"Der Durschnit Betregt {summe:F2}/0");
+            Console.WriteLine($"Der Durchschnitt beträgt {summe:F2}/0");
 
         }
     }
