@@ -41,12 +41,12 @@ namespace BubbleSort
 
 
 
-            Console.Read();
+      
 
         }
         public static void showArray(int[] data, bool balkenMode = false)
         {
-            Thread.Sleep(100);
+            Thread.Sleep(50);
             Console.Clear();
             const char rightHarfBlock = '\u2590';
             int index = 0;
