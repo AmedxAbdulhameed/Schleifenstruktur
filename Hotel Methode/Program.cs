@@ -65,7 +65,7 @@ namespace Hotel_Methode
                     }
                     else
                     {
-                        Console.WriteLine("kein gegnstand gefunden");
+                        Console.WriteLine("fehler");
 
 
                     }
@@ -81,7 +81,7 @@ namespace Hotel_Methode
                     }
                     else
                     {
-                        Console.WriteLine("kein gegnstand gefunden");
+                        Console.WriteLine("fehler");
 
 
                     }
