@@ -42,6 +42,7 @@ class Program
         anzahl = ausgabeTextMalX(ausgabe, ausgabe2);
 
         Console.Write("\nAnzahlder Buchstaben: {0}", anzahl);
+        Console.ReadKey();
 
     }
 
